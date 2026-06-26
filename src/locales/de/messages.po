@@ -19,7 +19,7 @@ msgstr "Über"
 #. Section header above a name input that greets the user
 #: src/App.jsx:34
 msgid "Greeting"
-msgstr "Begrüßung"
+msgstr "Begrüßung!"
 
 #: src/App.jsx:46
 msgid "Hello {name}, welcome back!"
