@@ -3,6 +3,7 @@ import { i18n } from "@lingui/core";
 export const locales = {
   en: "English",
   de: "Deutsch",
+  ja: "日本語",
   pseudo: "Pseudo",
 };
 
