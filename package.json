@@ -1,0 +1,25 @@
+{
+  "name": "lingui-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "extract": "lingui extract",
+    "compile": "lingui compile"
+  },
+  "dependencies": {
+    "@lingui/react": "^5.2.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@lingui/babel-plugin-lingui-macro": "^5.2.0",
+    "@lingui/cli": "^5.2.0",
+    "@lingui/vite-plugin": "^5.2.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.7"
+  }
+}

@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+.DS_Store
+
+# Compiled Lingui catalogs (the Vite plugin compiles .po on the fly)
+src/locales/**/*.js
+src/locales/**/*.ts

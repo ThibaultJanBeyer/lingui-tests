@@ -1,0 +1,15 @@
+import { i18n } from "@lingui/core";
+
+export const locales = {
+  en: "English",
+  de: "Deutsch",
+  pseudo: "Pseudo",
+};
+
+export const defaultLocale = "en";
+
+export const dynamicActivate = async (locale) => {
+  const { messages } = await import(`./locales/${locale}/messages.po`);
+  i18n.load(locale, messages);
+  i18n.activate(locale);
+};
