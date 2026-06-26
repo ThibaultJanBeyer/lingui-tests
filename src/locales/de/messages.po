@@ -13,25 +13,25 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/App.jsx:64
+#: src/App.jsx:65
 msgid "{count, plural, =0 {You have no unread messages} one {You have # unread message} other {You have # unread messages}}"
 msgstr "{count, plural, =0 {Du hast keine ungelesenen Nachrichten} one {Du hast # ungelesene Nachricht} other {Du hast # ungelesene Nachrichten}}"
 
 #. Section header for the 'about this app' description. Noun, not a preposition
-#: src/App.jsx:75
+#: src/App.jsx:76
 msgid "About"
 msgstr "Über"
 
 #. Section header above a name input that greets the user
-#: src/App.jsx:33
+#: src/App.jsx:34
 msgid "Greeting"
 msgstr "Begrüßung"
 
-#: src/App.jsx:45
+#: src/App.jsx:46
 msgid "Hello {name}, welcome back!"
 msgstr "Hallo {name}, willkommen zurück!"
 
-#: src/App.jsx:47
+#: src/App.jsx:48
 msgid "Hello stranger, please tell us your name."
 msgstr "Hallo Fremder, bitte sag uns deinen Namen."
 
@@ -39,15 +39,19 @@ msgstr "Hallo Fremder, bitte sag uns deinen Namen."
 msgid "Lingui Translation Demo"
 msgstr "Lingui Übersetzungs-Demo"
 
+#: src/App.jsx:17
+msgid "New subtitle"
+msgstr ""
+
 #. Section header for a demo of plural message forms
-#: src/App.jsx:54
+#: src/App.jsx:55
 msgid "Pluralization"
 msgstr "Pluralisierung"
 
-#: src/App.jsx:80
+#: src/App.jsx:81
 msgid "This is a small demo app to test internationalization tooling with Lingui. Switch between English and German to see translations in action."
 msgstr "Dies ist eine kleine Demo-App, um Internationalisierungs-Tools mit Lingui zu testen. Wechsle zwischen Englisch und Deutsch, um die Übersetzungen in Aktion zu sehen."
 
-#: src/App.jsx:41
+#: src/App.jsx:42
 msgid "Type your name"
 msgstr "Gib deinen Namen ein"

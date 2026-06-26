@@ -14,6 +14,7 @@ const App = () => {
       <header className="header">
         <h1>
           <Trans>Lingui Translation Demo</Trans>
+          <Trans>New subtitle</Trans>
         </h1>
         <div className="lang-switcher">
           {Object.entries(locales).map(([code, label]) => (
