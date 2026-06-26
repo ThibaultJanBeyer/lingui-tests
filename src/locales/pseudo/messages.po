@@ -22,6 +22,10 @@ msgstr ""
 msgid "About"
 msgstr ""
 
+#: src/App.jsx:18
+msgid "Funky wizard"
+msgstr ""
+
 #. Section header above a name input that greets the user
 #: src/App.jsx:34
 msgid "Greeting"
@@ -40,8 +44,8 @@ msgid "Lingui Translation Demo"
 msgstr ""
 
 #: src/App.jsx:17
-msgid "New subtitle"
-msgstr ""
+#~ msgid "New subtitle"
+#~ msgstr ""
 
 #. Section header for a demo of plural message forms
 #: src/App.jsx:55

@@ -26,6 +26,10 @@ msgstr "{count, plural, =0 {You have no unread messages} one {You have # unread 
 msgid "About"
 msgstr "About"
 
+#: src/App.jsx:18
+msgid "Funky wizard"
+msgstr "Funky wizard"
+
 #. Section header above a name input that greets the user
 #: src/App.jsx:34
 msgid "Greeting"
@@ -44,8 +48,8 @@ msgid "Lingui Translation Demo"
 msgstr "Lingui Translation Demo"
 
 #: src/App.jsx:17
-msgid "New subtitle"
-msgstr "New subtitle"
+#~ msgid "New subtitle"
+#~ msgstr "New subtitle"
 
 #. Section header for a demo of plural message forms
 #: src/App.jsx:55

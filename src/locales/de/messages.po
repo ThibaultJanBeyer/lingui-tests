@@ -6,6 +6,12 @@ msgstr ""
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: Deutsch\n"
 "Language: de\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
 
 #: src/App.jsx:65
 msgid "{count, plural, =0 {You have no unread messages} one {You have # unread message} other {You have # unread messages}}"
@@ -15,6 +21,10 @@ msgstr "{count, plural, =0 {Du hast keine ungelesenen Nachrichten} one {Du hast 
 #: src/App.jsx:76
 msgid "About"
 msgstr "Über"
+
+#: src/App.jsx:18
+msgid "Funky wizard"
+msgstr ""
 
 #. Section header above a name input that greets the user
 #: src/App.jsx:34
@@ -33,6 +43,10 @@ msgstr "Hallo Fremder, bitte sag uns deinen Namen."
 msgid "Lingui Translation Demo"
 msgstr "Lingui Übersetzungs-Demo"
 
+#: src/App.jsx:17
+#~ msgid "New subtitle"
+#~ msgstr "Neuer untertitel"
+
 #. Section header for a demo of plural message forms
 #: src/App.jsx:55
 msgid "Pluralization"
@@ -45,8 +59,3 @@ msgstr "Dies ist eine kleine Demo-App, um Internationalisierungs-Tools mit Lingu
 #: src/App.jsx:42
 msgid "Type your name"
 msgstr "Gib deinen Namen ein"
-
-#: src/App.jsx:17
-msgid "New subtitle"
-msgstr "Neuer untertitel"
-
