@@ -14,7 +14,7 @@ msgstr "{count, plural, =0 {Du hast keine ungelesenen Nachrichten} one {Du hast 
 #. Section header for the 'about this app' description. Noun, not a preposition
 #: src/App.jsx:76
 msgid "About"
-msgstr "Über uns"
+msgstr "Über"
 
 #. Section header above a name input that greets the user
 #: src/App.jsx:34
