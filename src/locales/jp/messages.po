@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-06-26 16:49+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: jp\n"
+
+#: src/App.jsx:65
+msgid "{count, plural, =0 {You have no unread messages} one {You have # unread message} other {You have # unread messages}}"
+msgstr ""
+
+#. Section header for the 'about this app' description. Noun, not a preposition
+#: src/App.jsx:76
+msgid "About"
+msgstr ""
+
+#: src/App.jsx:18
+msgid "Funky wizard"
+msgstr ""
+
+#. Section header above a name input that greets the user
+#: src/App.jsx:34
+msgid "Greeting"
+msgstr ""
+
+#: src/App.jsx:46
+msgid "Hello {name}, welcome back!"
+msgstr ""
+
+#: src/App.jsx:48
+msgid "Hello stranger, please tell us your name."
+msgstr ""
+
+#: src/App.jsx:16
+msgid "Lingui Translation Demo"
+msgstr ""
+
+#. Section header for a demo of plural message forms
+#: src/App.jsx:55
+msgid "Pluralization"
+msgstr ""
+
+#: src/App.jsx:81
+msgid "This is a small demo app to test internationalization tooling with Lingui. Switch between English and German to see translations in action."
+msgstr ""
+
+#: src/App.jsx:42
+msgid "Type your name"
+msgstr ""

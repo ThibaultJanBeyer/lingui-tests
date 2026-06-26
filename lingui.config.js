@@ -2,10 +2,11 @@ import { defineConfig } from "@lingui/cli";
 
 export default defineConfig({
   sourceLocale: "en",
-  locales: ["en", "de", "pseudo"],
+  locales: ["en", "de", "pseudo", "jp"],
   pseudoLocale: "pseudo",
   fallbackLocales: {
     pseudo: "en",
+    jp: "en",
   },
   catalogs: [
     {
